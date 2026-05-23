@@ -11,6 +11,8 @@ Me chamo Henrique Czurlinovics, tenho 21 anos e sou natural de Jundiai - São Pa
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Java" title="Nodejs" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="Java" title="Nestjs" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -29,12 +31,12 @@ Me chamo Henrique Czurlinovics, tenho 21 anos e sou natural de Jundiai - São Pa
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/henriqueczu/github-stats/master/generated/overview.svg"
+    src="https://raw.githubusercontent.com/henriqueczu/github-stats/generated/overview.svg#gh-dark-mode-only"
   />
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://raw.githubusercontent.com/henriqueczu/github-stats/master/generated/languages.svg"
+    src="https://raw.githubusercontent.com/henriqueczu/github-stats/generated/languages.svg#gh-dark-mode-only"
   />
 </p>
